@@ -1,0 +1,12 @@
+c:\Users\Lad\source\repos\TDD\kata-1\bin\Debug\netstandard2.0\xunit.runner.visualstudio.testadapter.dll
+c:\Users\Lad\source\repos\TDD\kata-1\bin\Debug\netstandard2.0\xunit.runner.reporters.net452.dll
+c:\Users\Lad\source\repos\TDD\kata-1\bin\Debug\netstandard2.0\xunit.runner.utility.net452.dll
+c:\Users\Lad\source\repos\TDD\kata-1\bin\Debug\netstandard2.0\xunit.abstractions.dll
+c:\Users\Lad\source\repos\TDD\kata-1\bin\Debug\netstandard2.0\kata-1.deps.json
+c:\Users\Lad\source\repos\TDD\kata-1\bin\Debug\netstandard2.0\kata-1.dll
+c:\Users\Lad\source\repos\TDD\kata-1\bin\Debug\netstandard2.0\kata-1.pdb
+c:\Users\Lad\source\repos\TDD\kata-1\obj\Debug\netstandard2.0\kata-1.csprojAssemblyReference.cache
+c:\Users\Lad\source\repos\TDD\kata-1\obj\Debug\netstandard2.0\kata-1.AssemblyInfoInputs.cache
+c:\Users\Lad\source\repos\TDD\kata-1\obj\Debug\netstandard2.0\kata-1.AssemblyInfo.cs
+c:\Users\Lad\source\repos\TDD\kata-1\obj\Debug\netstandard2.0\kata-1.dll
+c:\Users\Lad\source\repos\TDD\kata-1\obj\Debug\netstandard2.0\kata-1.pdb
